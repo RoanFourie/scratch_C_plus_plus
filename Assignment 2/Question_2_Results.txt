@@ -1,0 +1,151 @@
+Please key in your name:
+John
+Please key in your surname:
+Africa
+Please key in the name of your school:
+Kings College
+Key in your mark for English:
+50
+Key in your mark for Mathematics:
+76
+Key in your mark for Life Orientation :
+40
+Key in your mark for History:
+62
+Key in your mark for Computer literacy:
+56
+Key in your mark for Geography:
+38
+
+***************************************************
+STUDENT ACADEMIC RECORD
+***************************************************
+Name: John Africa          School: Kings College
+
+Subject             Mark  Symbol  Code
+English             50  % D       4
+Mathematics         76  % B       6       *Distinction!
+Life Orientation    40  % E       3
+History             62  % C       5
+Computer literacy   56  % D       4
+Geography           38  % F       2
+
+Average Year Mark: 53.6667% with Symbol D and code 4
+Outcome: Passed
+
+The highest mark was 76%
+The lowest mark was 38%
+***************************************************
+
+Process returned 0 (0x0)   execution time : 48.628 s
+Press any key to continue.
+
+
+
+
+
+
+
+
+
+
+
+Please key in your name:
+Mary
+Please key in your surname:
+Smith
+Please key in the name of your school:
+Green valley High
+Key in your mark for English:
+500
+Please try again, the value must be between 0 and 100:
+48
+Key in your mark for Mathematics:
+-200
+Please try again, the value must be between 0 and 100:
+-6
+Please try again, the value must be between 0 and 100:
+80
+Key in your mark for Life Orientation :
+75
+Key in your mark for History:
+70
+Key in your mark for Computer literacy:
+86
+Key in your mark for Geography:
+72
+
+***************************************************
+STUDENT ACADEMIC RECORD
+***************************************************
+Name: Mary Smith          School: Green valley High
+
+Subject             Mark  Symbol  Code
+English             48  % E       3
+Mathematics         80  % A       7       *Distinction!
+Life Orientation    75  % B       6       *Distinction!
+History             70  % B       6
+Computer literacy   86  % A       7       *Distinction!
+Geography           72  % B       6
+
+Average Year Mark: 71.8333% with Symbol B and code 6
+Outcome: Failed
+
+The highest mark was 86%
+The lowest mark was 48%
+***************************************************
+
+Process returned 0 (0x0)   execution time : 71.542 s
+Press any key to continue.
+
+
+
+
+
+
+
+
+
+
+
+Please key in your name:
+Thuli
+Please key in your surname:
+Booi
+Please key in the name of your school:
+Gauteng girls
+Key in your mark for English:
+82
+Key in your mark for Mathematics:
+66
+Key in your mark for Life Orientation :
+62
+Key in your mark for History:
+76
+Key in your mark for Computer literacy:
+86
+Key in your mark for Geography:
+78
+
+***************************************************
+STUDENT ACADEMIC RECORD
+***************************************************
+Name: Thuli Booi          School: Gauteng girls
+
+Subject             Mark  Symbol  Code
+English             82  % A       7       *Distinction!
+Mathematics         66  % C       5
+Life Orientation    62  % C       5
+History             76  % B       6       *Distinction!
+Computer literacy   86  % A       7       *Distinction!
+Geography           78  % B       6       *Distinction!
+
+Average Year Mark: 75% with Symbol B and code 6
+Outcome: Passed with distinction!
+
+The highest mark was 86%
+The lowest mark was 62%
+***************************************************
+
+Process returned 0 (0x0)   execution time : 37.734 s
+Press any key to continue.
